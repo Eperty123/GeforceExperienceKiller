@@ -1,0 +1,6 @@
+c:\users\carlo de leon\documents\visual studio 2015\Projects\GeforceUpdateKiller\GeforceUpdateKiller\bin\Debug\GeforceUpdateKiller.exe.config
+c:\users\carlo de leon\documents\visual studio 2015\Projects\GeforceUpdateKiller\GeforceUpdateKiller\bin\Debug\GeforceUpdateKiller.exe
+c:\users\carlo de leon\documents\visual studio 2015\Projects\GeforceUpdateKiller\GeforceUpdateKiller\bin\Debug\GeforceUpdateKiller.pdb
+c:\users\carlo de leon\documents\visual studio 2015\Projects\GeforceUpdateKiller\GeforceUpdateKiller\obj\Debug\GeforceUpdateKiller.csprojResolveAssemblyReference.cache
+c:\users\carlo de leon\documents\visual studio 2015\Projects\GeforceUpdateKiller\GeforceUpdateKiller\obj\Debug\GeforceUpdateKiller.exe
+c:\users\carlo de leon\documents\visual studio 2015\Projects\GeforceUpdateKiller\GeforceUpdateKiller\obj\Debug\GeforceUpdateKiller.pdb
